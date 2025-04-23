@@ -5,3 +5,5 @@
 ###### header 6 - the smallest
 
 text text text
+
+![Image of Myself in the ghibli style](https://avatars.githubusercontent.com/u/62568279?v=4)
